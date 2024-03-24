@@ -6,6 +6,7 @@ import HomeComponent from './home';
 
 const RouterComponent = () => {
   return (
+    
     <BrowseRouter>
     <Navbar />
     <Routes>
@@ -15,4 +16,4 @@ const RouterComponent = () => {
   )
 }
 
-export default Router
+export default RouterComponent
